@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The rebuild continues"
 date: 2016-09-06 
 ---

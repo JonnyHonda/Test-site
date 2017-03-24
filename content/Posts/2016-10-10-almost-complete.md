@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "99.99% complete I'd say."
 date: 2016-10-10
 ---

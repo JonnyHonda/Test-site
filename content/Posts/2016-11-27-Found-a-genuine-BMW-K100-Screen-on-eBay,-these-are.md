@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Found a genuine BMW K100 Screen on eBay"
 date: 2016-11-27
 images:

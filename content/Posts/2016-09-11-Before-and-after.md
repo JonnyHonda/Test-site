@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Before and after"
 date: 2016-09-11 
 ---

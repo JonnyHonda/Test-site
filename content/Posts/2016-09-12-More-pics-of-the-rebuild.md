@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "More pics of the rebuild﻿
 
 #BMW #K100 Rebuild"

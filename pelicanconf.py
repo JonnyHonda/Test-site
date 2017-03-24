@@ -20,7 +20,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DELETE_OUTPUT_DIRECTORY = True
+OUTPUT_RETENTION = ["Photos",".jpeg",".jpg", ".JPG", "JPEG"]
+# FILES_TO_COPY (('Photos'),('Photos'))
 DISPLAY_PAGES_ON_MENU = True
+
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),

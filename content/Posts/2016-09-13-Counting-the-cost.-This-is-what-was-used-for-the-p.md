@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Counting the cost. This is what was used for the paint job.
 From left to right.
 5 x Halfords High Build..."

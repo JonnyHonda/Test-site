@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bugger, scratched it."
 date: 2016-09-17 
 ---

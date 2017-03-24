@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "You've been Tango'd"
 date: 2016-09-05 
 ---

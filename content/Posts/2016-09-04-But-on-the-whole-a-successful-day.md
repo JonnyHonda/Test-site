@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "But on the whole a successful day"
 date: 2016-09-04 
 ---

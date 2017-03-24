@@ -1,11 +1,8 @@
 ---
-layout: post
-title: "Then apply a Orange Tango colour coat, before and after picture included﻿"
+title: Then apply a Orange Tango colour coat, before and after picture included﻿
 date: 2016-08-06 
-images:
-  - image-path: /k100-project/Photos/22-08-2016/20160806-173351-28805720025-o.jpg
-    title: 20160806-173351-28805720025-o.jpg
-  - image-path: /k100-project/Photos/22-08-2016/20160807-144050-28824379035-o.jpg
-    title: 20160807-144050-28824379035-o.jpg
 ---
+ <img src="/Photos/2016-08-06/20160806-173351-28805720025-o.jpg" width="250">
+ <img src="/Photos/2016-08-07/20160807-144050-28824379035-o.jpg" width="250">
+
 Then apply a Orange Tango colour coat, before and after picture included﻿

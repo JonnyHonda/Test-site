@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Doesn't that look mighty fine?"
 date: 2016-09-29 
 ---

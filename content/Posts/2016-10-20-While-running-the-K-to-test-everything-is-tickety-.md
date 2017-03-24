@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "While running the K to test everything is tickety-boo she died.
 
 Did all the usual, checked the plugs..."

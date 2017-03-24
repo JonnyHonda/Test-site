@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Just need to touch up some bad spots on the tank"
 date: 2016-08-29 
 ---
