@@ -1,0 +1,1 @@
+[Tue Mar 21 14:59:47.490007 2017] [autoindex:error] [pid 8766] [client 217.33.126.202:57649] AH01276: Cannot serve directory /var/www/test-site/output/category/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
